@@ -1,0 +1,7 @@
+. Create and maintain optimal data pipeline architecture using Scala or Python and Spark, Kafka
+2.Assemble large, complex data sets that meet functional/non-functional business requirements
+3. Implement robust APIs for data pipelines using Flask/FastAPI. Knowledge of AWS, Docker, Azure, etc would be a plus.
+4. Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+6. Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL on Cloud big data' technologies
+7. Work with stakeholders including the executive, product, data science, and design teams to assist with data-related technical issues and support their data infrastructure needs
+8. Work with data and analytics experts to strive for greater functionality in our data systems
